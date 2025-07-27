@@ -49,6 +49,7 @@ npm install
 npm start
 ```
 📌 Usage
+
 Open your browser at http://localhost:3000
 
 Register or log in as a user
@@ -60,6 +61,7 @@ Place orders through checkout
 Log in as admin to manage products and orders
 
 🧪 Future Enhancements
+
 Stripe/PayPal payment gateway integration
 
 Product ratings & user reviews
