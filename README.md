@@ -36,7 +36,10 @@ npm install
 # Create a .env file and add:
 # MONGO_URI=<your-mongodb-uri>
 # JWT_SECRET=<your-secret>
+
 npm run dev
+
+
 Frontend Setup
 bash
 Copy
@@ -44,6 +47,7 @@ Edit
 cd frontend
 npm install
 npm start
+```
 📌 Usage
 Open your browser at http://localhost:3000
 
