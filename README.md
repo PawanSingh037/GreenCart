@@ -67,11 +67,9 @@ Build **Forever-Ecommerce-Website** from the source and install dependencies:
 
 ```bash
 # 1. Clone the repository:
-git clone https://github.com/Shashi3743/Forever-Ecommerce-Website
-
+git clone 
 # 2. Navigate to the project directory:
-cd Forever-Ecommerce-Website
-
+cd 
 # 3. Install the dependencies:
 npm install
 ```
