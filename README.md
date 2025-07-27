@@ -67,16 +67,16 @@ Build **Forever-Ecommerce-Website** from the source and install dependencies:
 
 ```bash
 # 1. Clone the repository:
-git clone 
+git clone https://github.com/PawanSingh037/GreenCart.git
 # 2. Navigate to the project directory:
-cd 
+cd GreenCart
 # 3. Install the dependencies:
 npm install
 ```
 
 ### ▶️ Usage
 
-To run the project(client/admin):
+To run the project(client):
 
 ```bash
 npm run dev
