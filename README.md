@@ -2,6 +2,7 @@
 
 A full-stack grocery delivery e-commerce web application built using the MERN stack (MongoDB, Express.js, React, Node.js).
 
+LIVE DEMO:- https://greencartgrocery-frontend.vercel.app/
 ---
 
 ## 🚀 Features
